@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaanSimsek
-- 👀 I’m interested in Blockchain, Data Science, Machine Learning, Android Studio
+- 👀 I’m interested in Blockchain, Data Science, Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
